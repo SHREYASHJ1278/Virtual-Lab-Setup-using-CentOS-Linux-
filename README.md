@@ -8,7 +8,7 @@ This project demonstrates the setup of a virtual lab environment using CentOS St
 - Installed CentOS Stream 9 on Oracle VirtualBox  
 - Created and managed virtual machines  
 - Configured system settings and performed troubleshooting  
-- Used Linux commands for system administration  
+- Used Linux commands for system administration ( pwd, cd, mkdir, ls, vagrant status, vagrant ssh, whoami , sudo -i, exit )
 - Practiced Git commands for version control  
 
 # Tools & Technologies
